@@ -1,1 +1,1 @@
-# blog-mysql-postgresql
+Jupyter notebook for [blogpost](https://sriramgkn.github.io/2-practical-sql/) on MySQL and PostgreSQL. Dependencies are explained inside the notebook. These codes were developed for illustrative purposes, and might benefit from customization to suit specific needs.
